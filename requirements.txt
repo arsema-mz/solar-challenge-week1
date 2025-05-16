@@ -1,3 +1,5 @@
 ECHO is on.
 numpy
 pandas
+# Adding new packages for future use
+placeholder-package
