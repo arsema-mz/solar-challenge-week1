@@ -16,3 +16,5 @@ To set up the environment, follow these steps:
 
 3. Install dependencies:
     pip install -r requirements.txt
+4. Run the application:
+    python app.py
