@@ -2,3 +2,4 @@ ECHO is on.
 data/
 *.csv
 .ipynb_checkpoints/
+venv/
