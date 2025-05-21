@@ -1,5 +1,3 @@
-ECHO is on.
-numpy
+streamlit
 pandas
-# Adding new packages for future use
-placeholder-package
+matplotlib
