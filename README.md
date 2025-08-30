@@ -27,7 +27,7 @@ To set up the project environment, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repository-name.git
+   git clone https://github.com/arsema-mz/solar-challenge-week1.git
    ```
 
 2. Create a virtual environment:
